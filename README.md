@@ -17,3 +17,4 @@ Enjoy the game and improve your skills!
 
 # Project Development
 The project is open for enhancements and new ideas. If you have suggestions for adding new features or improving the current code, feel free to submit a pull request.
+![minesweeper-1](https://github.com/user-attachments/assets/b7388535-ccd9-4ef5-843f-aed29adcdf04)
